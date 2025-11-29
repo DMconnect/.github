@@ -1,6 +1,6 @@
 <h1 align="center">DMconnect</h1>
 
-DMconnect is a **decentralized** messenger for old systems with encryption capabilities.
+DMconnect is a **decentralized** messenger for legacy systems with encryption capabilities.
 
 It uses a **federated** architecture, similar to email, allowing multiple servers to seamlessly communicate with each other.
 
