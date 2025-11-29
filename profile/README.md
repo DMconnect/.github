@@ -1,12 +1,18 @@
-## Hi there 👋
+<h1 align="center">DMconnect</h1>
 
-<!--
+DMconnect is a **decentralized** messenger for old systems with encryption capabilities.
 
-**Here are some ideas to get you started:**
+It uses a **federated** architecture, similar to email, allowing multiple servers to seamlessly communicate with each other.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The protocol itself is [designed to be as simple as possible](http://dmconnectspec.w10.site), so you can maintain communication using a regular Telnet client. Of course, you are free to create separate client applications.
+
+## Clients
+Currently, there are clients for:
+- Windows 9x ([ExTO](https://github.com/Archie-boop/ExTO), [DMCVB](https://github.com/tankwars92/DMCVB) and others, [see the full list of clients on the website](http://dmconnect.w10.site/download.html)).
+- J2ME ([DMobile](https://github.com/tankwars92/DMobile)).
+- Linux ([Dsconnect](http://dsconnect.w10.site)).
+
+## More about DMconnect
+More information about DMconnect:  
+- [Protocol specification](http://dmconnectspec.w10.site/) – description of the DMconnect client-server protocol  
+- [Official website](http://dmconnect.w10.site/) – official DMconnect website
