@@ -14,5 +14,6 @@ Currently, there are clients for:
 
 ## More about DMconnect
 More information about DMconnect:  
-- [Protocol specification](http://dmconnectspec.w10.site/) – description of the DMconnect client-server protocol  
+- [Protocol specification](http://dmconnectspec.w10.site/) – description of the DMconnect client-server protocol
+- [Extension documentation](https://dmconnect.github.io) – DMconnect extension protocol (**DXP**) documentation
 - [Official website](http://dmconnect.w10.site/) – official DMconnect website
