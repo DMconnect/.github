@@ -8,7 +8,7 @@ The protocol itself is [designed to be as simple as possible](http://dmconnectsp
 
 ## Clients
 Currently, there are clients for:
-- Windows 9x ([ExTO](https://github.com/Archie-boop/ExTO), [DMCVB](https://github.com/tankwars92/DMCVB) and others, [see the full list of clients on the website](http://dmconnect.w10.site/download.html)).
+- Windows 9x ([ExTO](https://github.com/Archie-boop/ExTO), [YADC](https://yadc.w10.site) and others, [see the full list of clients on the website](http://dmconnect.w10.site/download.html)).
 - J2ME ([DMobile](https://github.com/tankwars92/DMobile)).
 - Linux ([Dsconnect](http://dsconnect.w10.site)).
 
