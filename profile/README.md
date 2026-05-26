@@ -17,3 +17,13 @@ More information about DMconnect:
 - [Protocol specification](http://dmconnectspec.w10.site/) – description of the DMconnect client-server protocol
 - [Extension documentation](https://dmconnect.github.io) – DMconnect extension protocol (**DXP**) documentation
 - [Official website](http://dmconnect.w10.site/) – official DMconnect website
+
+### How to understand that your own DMconnect client is ready to use?
+
+Your client is considered ready for DMconnect usage if it supports the following:
+
+1. Ability to properly work with UTF-8 text encoding.
+2. Ability to send and receive messages through a TCP connection.
+3. Ability to periodically send keep-alive packets to maintain the connection.
+
+DMconnect is intentionally designed to be a very simple protocol. In its basic form, it is simply an exchange of text messages between a client and a server over TCP.
