@@ -4,7 +4,7 @@ DMconnect is a **decentralized** messenger for legacy systems with encryption ca
 
 It uses a **federated** architecture, similar to email, allowing multiple servers to seamlessly communicate with each other.
 
-The protocol itself is [designed to be as simple as possible](http://dmconnectspec.w10.site), so you can maintain communication using a regular Telnet client. Of course, you are free to create separate client applications.
+The protocol itself is [designed to be as simple as possible](https://github.com/DMconnect/DMCD/wiki/Protocol-documentation.), so you can maintain communication using a regular Telnet client. Of course, you are free to create separate client applications.
 
 ## Clients
 Currently, there are clients for:
@@ -14,6 +14,6 @@ Currently, there are clients for:
 
 ## More about DMconnect
 More information about DMconnect:  
-- [Protocol specification](http://dmconnectspec.w10.site/) – description of the DMconnect client-server protocol
+- [Protocol specification](https://github.com/DMconnect/DMCD/wiki/Protocol-documentation.) – description of the DMconnect client-server protocol (*[Russian version](http://dmconnectspec.w10.site)*)
 - [Extension documentation](https://dmconnect.github.io) – DMconnect extension protocol (**DXP**) documentation
 - [Official website](http://dmconnect.w10.site/) – official DMconnect website
